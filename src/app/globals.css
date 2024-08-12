@@ -3,3 +3,10 @@
 @tailwind utilities;
 
 @import url('./font.css');
+@import url('./lato.css');
+
+/* html {
+    max-width: 1440px;
+    mar
+    box-sizing: border-box;
+} */

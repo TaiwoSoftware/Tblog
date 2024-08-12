@@ -11,7 +11,7 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en" className="bg-[#9b45fe] font-PacificFont">
+    <html lang="en" className="bg-[#9b45fe] max-w-[1440px] my-0 mx-auto font-PacificFont">
     <head>
     </head>
       <body className={inter.className}>
